@@ -1,6 +1,7 @@
 {
   "packs": [
-    "mochi.json"
+    "mochi.json",
+    "mochi2.json"
   ],
   "homeserver_url": "https://matrix.gabimarincu.xyz"
 }
